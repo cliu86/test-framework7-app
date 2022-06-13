@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Work Space\\test-Framework7-app",
+  "type": [
+    "web"
+  ],
+  "name": "Test Web App",
+  "framework": "vue",
+  "template": "tabs",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
